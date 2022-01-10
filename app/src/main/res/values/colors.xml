@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="firstColor">#80cbc4</color>
+    <color name="secondColor">#80cbc4</color>
+    <color name="thirdColor">#FF00EE</color>
+    <color name="fourColor">#00FFCC</color> <!-- #8e24aa -->
+    <color name="fiveColor">#000</color>
+    <color name="sixColor">#80cbc4</color>
+    <color name="teal_200">#80cbc4</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="grey">#bdbdbd</color>
+    <color name="textColorPrimary">#000000</color>
+
+</resources>
